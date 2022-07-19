@@ -11,7 +11,7 @@
 carpentry: "dc"
 
 # Overall title for pages.
-title: "Taxonomic Annotations"
+title: "Managing AMIs, Scripts, etc."
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -90,4 +90,4 @@ exclude:
 # Turn off built-in syntax highlighting.
 highlighter: rouge
 
-remote_theme: Cloud-SPAN/metagenomics-theme
+remote_theme: Cloud-SPAN/cloud-admin-guide-theme
